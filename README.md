@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="./aya-samir-banner.jpg" alt="Aya Samir - Data Analyst">
 </div>
 Hi, I'm Aya Samir 👋
