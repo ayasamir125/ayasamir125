@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./Aya-Samir-Data-Analyst-Banner.png" alt="Aya Samir - Data Analyst">
 
