@@ -79,7 +79,7 @@ To build a strong portfolio in Data Analysis and use data to support better busi
 
 📫 Connect With Me
 
-- 💼 LinkedIn: "Aya Samir" (YOUR_LINKEDIN_LINK)
+- 💼 LinkedIn: "Aya Samir" (https://linkedin.com/in/aya-samir-22aa4b355)
 - 🐙 GitHub: "Aya Samir" (YOUR_GITHUB_LINK)
 
 ---
