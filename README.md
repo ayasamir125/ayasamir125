@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="C:\Users\mr\Downloads\Telegram Desktop">
+  <imge src =" JPG File (.jpg)">
 </div>
 Hi, I'm Aya Samir 👋
 
