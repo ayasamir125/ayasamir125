@@ -1,5 +1,5 @@
  <div align="center">
-  <img src ="JPG File jpg">
+  <img src ="JPG File (.jpg)">
 </div>
 Hi, I'm Aya Samir 👋
 
