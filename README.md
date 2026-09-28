@@ -1,7 +1,5 @@
- <div align="center">
-
-<img src="./Aya-Samir-Data-Analyst-Banner.png" alt="Aya Samir - Data Analyst">
-
+<div align="center">
+  <img src="./aya-samir-banner.jpg" alt="Aya Samir - Data Analyst">
 </div>
 Hi, I'm Aya Samir 👋
 
