@@ -1,5 +1,7 @@
  <div align="center">
-  <img src ="JPG File (.jpg)">
+
+<img src="Aya-Samir-Data-Analyst-Banner.jpg" width="100%">
+
 </div>
 Hi, I'm Aya Samir 👋
 
