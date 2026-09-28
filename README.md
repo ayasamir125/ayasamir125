@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="./aya-samir-banner.jpg" alt="Aya Samir - Data Analyst">
+  <img src="C:\Users\mr\Downloads\Telegram Desktop">
 </div>
 Hi, I'm Aya Samir 👋
 
