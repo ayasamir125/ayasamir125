@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aya Samir - Data Analyst](Aya-Samir-Data-Analyst-Banner.png)
+<img src="./Aya-Samir-Data-Analyst-Banner.png" alt="Aya Samir - Data Analyst">
 
 </div>
 Hi, I'm Aya Samir 👋
