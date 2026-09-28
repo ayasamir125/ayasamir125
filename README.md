@@ -1,3 +1,8 @@
+<div align="center">
+
+![Aya Samir - Data Analyst](Aya-Samir-Data-Analyst-Banner.png)
+
+</div>
 Hi, I'm Aya Samir 👋
 
 📊 Data Analyst
