@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="photo_2026-09-28_11-16-05.jpg" width="100%">
+<img src="photo_2026-11-17_13-54-51.jpg" width="100%">
 
 </div>
 Hi, I'm Aya Samir 👋
